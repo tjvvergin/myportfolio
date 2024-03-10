@@ -4,17 +4,20 @@ theme: papermod
 title: Tyler Vergin
 
 params:
+  contact:
+    email: "tjvvergin@gmail.com"
+    phone: "(708) 600-2860"
   profileMode:
     enabled: true
     title: "Tyler Vergin"
-    subtitle: "Here is the work I am proud of"
+    subtitle: "Get to know me"
     imageUrl: "me2.jpeg" # optional
 #    imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
     buttons:
       - name: About Me
-        url: "/archive"
+        url: "/posts/about-me"
       - name: Coding Projects
         url: "https://github.com/"
       - name: My Resume
@@ -22,18 +25,20 @@ params:
   socialIcons: 
     - name: "github"
       url: "https://github.com/TheBigFinger"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/tyler-vergin/"
 
 menu:
   main:
     - identifier: 
       name: About Me
-      url: /categories/
+      url: /posts/about-me
       weight: 10
-    - identifier: 
+    - identifier: "list"
       name: Coding Projects
-      url: /tags/
+      url: /tags/projects
       weight: 20
     - identifier: 
       name: My Resume
-      url: https://example.org
+      url: /posts/my-resume
       weight: 30
