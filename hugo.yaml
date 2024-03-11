@@ -10,7 +10,7 @@ params:
   profileMode:
     enabled: true
     title: "Tyler Vergin"
-    subtitle: "Get to know me"
+    subtitle: "A portfolio of me and my work"
     imageUrl: "me2.jpeg" # optional
 #    imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size

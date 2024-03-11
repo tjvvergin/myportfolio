@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/projects/this-website/</link>
       <pubDate>Fri, 23 Feb 2024 00:23:01 -0600</pubDate>
       <guid>http://localhost:1313/posts/projects/this-website/</guid>
-      <description></description>
+      <description>My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
       <title>GODex</title>
@@ -34,7 +34,7 @@
       <link>http://localhost:1313/posts/about-me/</link>
       <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
       <guid>http://localhost:1313/posts/about-me/</guid>
-      <description>test </description>
+      <description> </description>
     </item>
   </channel>
 </rss>
