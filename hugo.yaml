@@ -19,7 +19,7 @@ params:
       - name: About Me
         url: "/posts/about-me"
       - name: Coding Projects
-        url: "https://github.com/"
+        url: "https://github.com/tjvvergin"
       - name: My Resume
         url: "https://github.com/"
   socialIcons: 
