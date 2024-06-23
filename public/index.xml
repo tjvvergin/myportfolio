@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler Vergin</title>
     <link>http://localhost:1313/</link>
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/posts/projects/this-website/</link>
       <pubDate>Fri, 23 Feb 2024 00:23:01 -0600</pubDate>
       <guid>http://localhost:1313/posts/projects/this-website/</guid>
-      <description>My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
+      <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
-      <title>GODex</title>
+      <title>GoDex</title>
       <link>http://localhost:1313/posts/projects/godex/</link>
       <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
       <guid>http://localhost:1313/posts/projects/godex/</guid>
-      <description>Test</description>
+      <description>GoDex and Object Oriented Programming The first GoDex was the final project for my iOS app development 1 class. It was also my first large programming project which was made significantly easier by also taking the object oriented programming class at the same time. I already had knowledge of data structures and certain important algorithms but the knolwledge of how to put everything I had learned already into one big project was invaluable.</description>
     </item>
     <item>
       <title>My Resume</title>

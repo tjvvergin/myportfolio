@@ -5,7 +5,7 @@ draft = false
 tags = ["projects"]
 categories = ["projects"]
 +++
-## [Github Link](https://github.com/TheBigFinger/myportfolio)
+## [Github Link](https://github.com/tjvvergin/myportfolio)
 ### My philosophy of what makes a good website:
 I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me. I certainly still appreciate a well designed website that looks good but if the looks get in the way of funtion I end up feeling more frustrated than satisfied. This would be something that I would keep in the back of my mind when deciding on a website layout.
 ### Why did I end up using Hugo?
@@ -25,7 +25,7 @@ I started by using the built in social-media icons and links to link to my Githu
 ```yaml
 socialIcons: 
     - name: "github"
-      url: "https://github.com/TheBigFinger"
+      url: "https://github.com/tjvvergin"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/tyler-vergin/"
 ```
