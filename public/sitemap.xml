@@ -37,5 +37,11 @@
   </url><url>
     <loc>http://localhost:1313/categories/about-me/</loc>
     <lastmod>2024-02-21T23:24:06-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/supporting_documents/pogodex_proposal.docx/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/supporting_documents/research_paper.docx/</loc>
   </url>
 </urlset>

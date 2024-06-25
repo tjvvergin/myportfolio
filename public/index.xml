@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tyler Vergin</title>
     <link>http://localhost:1313/</link>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/posts/projects/godex/</link>
       <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
       <guid>http://localhost:1313/posts/projects/godex/</guid>
-      <description>GoDex and Object Oriented Programming The first GoDex was the final project for my iOS app development 1 class. It was also my first large programming project which was made significantly easier by also taking the object oriented programming class at the same time. I already had knowledge of data structures and certain important algorithms but the knolwledge of how to put everything I had learned already into one big project was invaluable.</description>
+      <description>Test</description>
     </item>
     <item>
       <title>My Resume</title>
@@ -35,6 +35,40 @@
       <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
       <guid>http://localhost:1313/posts/about-me/</guid>
       <description> </description>
+    </item>
+    <item>
+      <title>GoDex Pro Documentation.docx.md</title>
+      <link>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</guid>
+      <description>Tyler Vergin
+6/05/2023
+CSC-391
+Final Project Documentation
+My app is a continuation from my project from last quarter GoDex. My new app GoDex Pro is designed to take all of the best things from the previous app and make them both more usable and look better, as well as add a few new features using SwiftUI. GoDex Pro is a Pokémon Go Pokédex companion app that serves as a better version of the in-game Pokédex which provides far more information.</description>
+    </item>
+    <item>
+      <title>POGODEX proposal.docx.md</title>
+      <link>http://localhost:1313/posts/supporting_documents/pogodex_proposal.docx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/supporting_documents/pogodex_proposal.docx/</guid>
+      <description>Tyler Vergin
+CSC 371 &amp;ndash; Final Project Proposal
+2/12/2023
+Pokémon Go Ultimate Pokédex
+The point of this app is to provide all the information about current and future Pokémon Go Pokémon rotations, including but not limited to which Pokémon are currently available in game, how they can be obtained, maximum stats, and whether they are available in a shiny form all in one place. It will also provide a way for the user to track their own Pokédex entries so that instead of solely using the integrated Pokémon go Pokédex they can use the one in app which will always remain fully updated due to using the POGO Pokémon go API.</description>
+    </item>
+    <item>
+      <title>Research Paper.docx</title>
+      <link>http://localhost:1313/posts/supporting_documents/research_paper.docx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/supporting_documents/research_paper.docx/</guid>
+      <description>Tyler Vergin
+June 1^st^, 2023
+CSC-391
+GoDex Pro Research Paper
+Abstract:
+This paper explores the complex weave of technologies used in the creation of the GoDex Pro app, a resource for Pokémon Go players. The use of the data-driven SwiftUI framework, along with Swift Charts and WebKit functionality, allowed for the development of a dynamic and engaging user interface. The history of iOS development is also discussed, tracing its evolution from the use of the Cocoa UI framework and Objective-C programming language to the introduction of Swift and SwiftUI.</description>
     </item>
   </channel>
 </rss>
