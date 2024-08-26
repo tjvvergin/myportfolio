@@ -82,8 +82,8 @@ params:
         url: "/posts/about-me"
       - name: Coding Projects
         url: "https://github.com/tjvvergin"
-      - name: My Resume
-        url: "https://github.com/"
+      #- name: My Resume
+      #  url: "/posts/my-resume"
   socialIcons: 
     - name: "github"
       url: "https://github.com/TheBigFinger"
@@ -100,7 +100,7 @@ menu:
       name: Coding Projects
       url: /tags/projects
       weight: 20
-    - identifier: 
-      name: My Resume
-      url: /posts/my-resume
-      weight: 30
+    #- identifier: 
+    #  name: My Resume
+    #  url: /posts/my-resume
+    #  weight: 30

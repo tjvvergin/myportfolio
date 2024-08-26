@@ -2,69 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tyler Vergin</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Tyler Vergin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 00:23:01 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Website!</title>
-      <link>http://localhost:1313/posts/projects/this-website/</link>
+      <link>https://example.org/posts/projects/this-website/</link>
       <pubDate>Fri, 23 Feb 2024 00:23:01 -0600</pubDate>
-      <guid>http://localhost:1313/posts/projects/this-website/</guid>
+      <guid>https://example.org/posts/projects/this-website/</guid>
       <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
       <title>GoDex</title>
-      <link>http://localhost:1313/posts/projects/godex/</link>
+      <link>https://example.org/posts/projects/godex/</link>
       <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
-      <guid>http://localhost:1313/posts/projects/godex/</guid>
-      <description>Test</description>
+      <guid>https://example.org/posts/projects/godex/</guid>
+      <description>My First Large OOP Swift based iOS App</description>
     </item>
     <item>
       <title>My Resume</title>
-      <link>http://localhost:1313/posts/my-resume/</link>
+      <link>https://example.org/posts/my-resume/</link>
       <pubDate>Thu, 22 Feb 2024 23:06:44 -0600</pubDate>
-      <guid>http://localhost:1313/posts/my-resume/</guid>
+      <guid>https://example.org/posts/my-resume/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/posts/about-me/</link>
+      <link>https://example.org/posts/about-me/</link>
       <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
+      <guid>https://example.org/posts/about-me/</guid>
       <description> </description>
     </item>
     <item>
-      <title>GoDex Pro Documentation.docx.md</title>
-      <link>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</link>
+      <title>GoDex Pro Documentation</title>
+      <link>https://example.org/posts/supporting_documents/godex_pro_documentation.docx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</guid>
+      <guid>https://example.org/posts/supporting_documents/godex_pro_documentation.docx/</guid>
       <description>Tyler Vergin
 6/05/2023
 CSC-391
-Final Project Documentation
-My app is a continuation from my project from last quarter GoDex. My new app GoDex Pro is designed to take all of the best things from the previous app and make them both more usable and look better, as well as add a few new features using SwiftUI. GoDex Pro is a Pokémon Go Pokédex companion app that serves as a better version of the in-game Pokédex which provides far more information.</description>
+Final Project Documentation My app is a continuation from my project from last quarter GoDex. My new app GoDex Pro is designed to take all of the best things from the previous app and make them both more usable and look better, as well as add a few new features using SwiftUI. GoDex Pro is a Pokémon Go Pokédex companion app that serves as a better version of the in-game Pokédex which provides far more information.</description>
     </item>
     <item>
-      <title>POGODEX proposal.docx.md</title>
-      <link>http://localhost:1313/posts/supporting_documents/pogodex_proposal.docx/</link>
+      <title>Research Paper</title>
+      <link>https://example.org/posts/supporting_documents/research_paper.docx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/supporting_documents/pogodex_proposal.docx/</guid>
+      <guid>https://example.org/posts/supporting_documents/research_paper.docx/</guid>
       <description>Tyler Vergin
-CSC 371 &amp;ndash; Final Project Proposal
-2/12/2023
-Pokémon Go Ultimate Pokédex
-The point of this app is to provide all the information about current and future Pokémon Go Pokémon rotations, including but not limited to which Pokémon are currently available in game, how they can be obtained, maximum stats, and whether they are available in a shiny form all in one place. It will also provide a way for the user to track their own Pokédex entries so that instead of solely using the integrated Pokémon go Pokédex they can use the one in app which will always remain fully updated due to using the POGO Pokémon go API.</description>
-    </item>
-    <item>
-      <title>Research Paper.docx</title>
-      <link>http://localhost:1313/posts/supporting_documents/research_paper.docx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/supporting_documents/research_paper.docx/</guid>
-      <description>Tyler Vergin
-June 1^st^, 2023
+June 1st, 2023
 CSC-391
 GoDex Pro Research Paper
 Abstract:
