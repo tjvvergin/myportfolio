@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tyler Vergin</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Tyler Vergin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 00:23:01 -0600</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Website!</title>
-      <link>https://example.org/posts/projects/this-website/</link>
+      <link>http://localhost:1313/posts/projects/this-website/</link>
       <pubDate>Fri, 23 Feb 2024 00:23:01 -0600</pubDate>
-      <guid>https://example.org/posts/projects/this-website/</guid>
+      <guid>http://localhost:1313/posts/projects/this-website/</guid>
       <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
       <title>GoDex</title>
-      <link>https://example.org/posts/projects/godex/</link>
+      <link>http://localhost:1313/posts/projects/godex/</link>
       <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
-      <guid>https://example.org/posts/projects/godex/</guid>
+      <guid>http://localhost:1313/posts/projects/godex/</guid>
       <description>My First Large OOP Swift based iOS App</description>
     </item>
     <item>
       <title>My Resume</title>
-      <link>https://example.org/posts/my-resume/</link>
+      <link>http://localhost:1313/posts/my-resume/</link>
       <pubDate>Thu, 22 Feb 2024 23:06:44 -0600</pubDate>
-      <guid>https://example.org/posts/my-resume/</guid>
+      <guid>http://localhost:1313/posts/my-resume/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.org/posts/about-me/</link>
+      <link>http://localhost:1313/posts/about-me/</link>
       <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
-      <guid>https://example.org/posts/about-me/</guid>
+      <guid>http://localhost:1313/posts/about-me/</guid>
       <description> </description>
     </item>
     <item>
       <title>GoDex Pro Documentation</title>
-      <link>https://example.org/posts/supporting_documents/godex_pro_documentation.docx/</link>
+      <link>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/supporting_documents/godex_pro_documentation.docx/</guid>
+      <guid>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</guid>
       <description>Tyler Vergin
 6/05/2023
 CSC-391
@@ -48,9 +48,9 @@ Final Project Documentation My app is a continuation from my project from last q
     </item>
     <item>
       <title>Research Paper</title>
-      <link>https://example.org/posts/supporting_documents/research_paper.docx/</link>
+      <link>http://localhost:1313/posts/supporting_documents/research_paper.docx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/supporting_documents/research_paper.docx/</guid>
+      <guid>http://localhost:1313/posts/supporting_documents/research_paper.docx/</guid>
       <description>Tyler Vergin
 June 1st, 2023
 CSC-391

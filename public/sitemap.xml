@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/projects/</loc>
+    <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/projects/</loc>
+    <loc>http://localhost:1313/categories/projects/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/projects/this-website/</loc>
+    <loc>http://localhost:1313/posts/projects/this-website/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-02-23T00:23:01-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/projects/godex/</loc>
+    <loc>http://localhost:1313/posts/projects/godex/</loc>
     <lastmod>2024-02-22T23:07:38-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-resume/</loc>
+    <loc>http://localhost:1313/posts/my-resume/</loc>
     <lastmod>2024-02-22T23:06:44-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/my-resume/</loc>
+    <loc>http://localhost:1313/categories/my-resume/</loc>
     <lastmod>2024-02-22T23:06:44-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/about-me/</loc>
+    <loc>http://localhost:1313/posts/about-me/</loc>
     <lastmod>2024-02-21T23:24:06-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/about-me/</loc>
+    <loc>http://localhost:1313/categories/about-me/</loc>
     <lastmod>2024-02-21T23:24:06-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/supporting_documents/godex_pro_documentation.docx/</loc>
+    <loc>http://localhost:1313/posts/supporting_documents/godex_pro_documentation.docx/</loc>
   </url><url>
-    <loc>https://example.org/posts/supporting_documents/research_paper.docx/</loc>
+    <loc>http://localhost:1313/posts/supporting_documents/research_paper.docx/</loc>
   </url>
 </urlset>
