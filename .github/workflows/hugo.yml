@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0
+      HUGO_VERSION: 0.123.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -42,7 +42,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          submodules: true         # Ensure submodules are checked out
+          fetch-depth: 0           # Fetch all history for all branches and tags
+      - name: Update Submodules
+        run: git submodule update --init --recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
