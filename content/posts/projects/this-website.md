@@ -34,5 +34,9 @@ With the only issue being a missing '-' at the beginning of `name: "linkedin"`, 
 #### Creating the list of coding projects.
 The next issue I faced came about when trying to only show coding project posts when the user clicked on the "Coding Projects" button or in the toolbar. I had seen examples online of lists and saw that there was a list layout in papermod but could not quite figure out how to get it to work. Every time that I would try to make a page use that layout it would error out. Eventually I was able to figure out that the list layout was meant to be used inside of another layout and was not meant to be standalone. Knowing this was now a dead-edn I went back to the Papermod documentation and figured out that if I just changed the url so that it looked like '/tags/projects/' that it would pull up a list of all posts with the "projects" tag. 
 
+### Finally Publishing the website
+Once everything was nicely organized and several pages were filled out I went ahead and published the website. There were several different options but the obvious winner for me, as everything was already in Github, was Github pages. Pages is completely free and managed entirely by Github themselves with seamless integration allowing the website to automatically get updated with the latest main branch version. All of this was made even better by Github allowing custom domains to be linked to the website meaning that [TylerVergin.com](https://tylervergin.com) would officially exist.
+
+
 
 
