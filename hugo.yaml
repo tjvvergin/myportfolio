@@ -61,7 +61,7 @@ markup:
         enableDefault: false
     renderer:
       hardWraps: false
-      unsafe: false
+      unsafe: true
       xhtml: false
 
 
@@ -73,7 +73,7 @@ params:
     enabled: true
     title: "Tyler Vergin"
     subtitle: "A portfolio of me and my work"
-    imageUrl: "me2.jpeg" # optional
+    imageUrl: "me.jpeg" # optional
 #    imageTitle: "<title of image as alt>" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
@@ -82,8 +82,8 @@ params:
         url: "/posts/about-me"
       - name: Coding Projects
         url: "https://github.com/tjvvergin"
-      #- name: My Resume
-      #  url: "/posts/my-resume"
+      - name: Letter of Recommendation
+        url: "/posts/letters-of-recommendation"
   socialIcons: 
     - name: "github"
       url: "https://github.com/TheBigFinger"
@@ -100,7 +100,11 @@ menu:
       name: Coding Projects
       url: /tags/projects
       weight: 20
+    - identifier: 
+      name: Letter of Recommendation
+      url: /posts/letters-of-recommendation
+      weight: 30
     #- identifier: 
     #  name: My Resume
     #  url: /posts/my-resume
-    #  weight: 30
+    #  weight: 40

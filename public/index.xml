@@ -16,11 +16,25 @@
       <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
+      <title>DuPage Paws for People Website</title>
+      <link>http://localhost:1313/posts/projects/dpp4p/</link>
+      <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
+      <guid>http://localhost:1313/posts/projects/dpp4p/</guid>
+      <description>Emulating A Real Work Environment</description>
+    </item>
+    <item>
       <title>GoDex</title>
       <link>http://localhost:1313/posts/projects/godex/</link>
       <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
       <guid>http://localhost:1313/posts/projects/godex/</guid>
       <description>My First Large OOP Swift based iOS App</description>
+    </item>
+    <item>
+      <title>Letter of Recommendation</title>
+      <link>http://localhost:1313/posts/letters-of-recommendation/</link>
+      <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
+      <guid>http://localhost:1313/posts/letters-of-recommendation/</guid>
+      <description>DuPage Paws for People President, Charlotte Keane: </description>
     </item>
     <item>
       <title>My Resume</title>
@@ -34,7 +48,7 @@
       <link>http://localhost:1313/posts/about-me/</link>
       <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
       <guid>http://localhost:1313/posts/about-me/</guid>
-      <description>Introduction Hi, I’m Tyler Vergin – Software Developer &amp;amp; Problem Solver I&amp;rsquo;m only a few months away from graduating with a degree in Computer Science from DePaul University, and I’m driven by the challenge of creating efficient and scalable software. My goal is to contribute to innovative projects, and I bring a fresh perspective, along with strong skills in object oriented programming languages and problem solving.
+      <description>Hi, I’m Tyler Vergin – Software Developer &amp;amp; Problem Solver I&amp;rsquo;m only a few months away from graduating with a degree in Computer Science from DePaul University, and I’m driven by the challenge of creating efficient and scalable software. My goal is to contribute to innovative projects, and I bring a fresh perspective, along with strong skills in object oriented programming languages and problem solving.
 Whether it’s optimizing algorithms, building responsive web apps, or diving into full-stack development, I’m ready to tackle any challenge that comes my way.</description>
     </item>
     <item>
