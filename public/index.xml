@@ -6,28 +6,50 @@
     <description>Recent content on Tyler Vergin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:23:01 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This Website!</title>
-      <link>http://localhost:1313/posts/projects/this-website/</link>
-      <pubDate>Fri, 23 Feb 2024 00:23:01 -0600</pubDate>
-      <guid>http://localhost:1313/posts/projects/this-website/</guid>
-      <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
+      <title>My DePaul Computer Classes</title>
+      <link>http://localhost:1313/posts/projects/classes/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/projects/classes/</guid>
+      <description>Check out some of the other interesting classes that I&amp;#39;ve taken and what I learned.</description>
+    </item>
+    <item>
+      <title>Optimized C&#43;&#43;</title>
+      <link>http://localhost:1313/posts/projects/cpp/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/projects/cpp/</guid>
+      <description>Here are just some of the optimizations I learned about in Ed Keenan&amp;#39;s Optimized C&#43;&#43; class.</description>
     </item>
     <item>
       <title>DuPage Paws for People Website</title>
       <link>http://localhost:1313/posts/projects/dpp4p/</link>
-      <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/projects/dpp4p/</guid>
       <description>Emulating A Real Work Environment</description>
     </item>
     <item>
-      <title>GoDex</title>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/about-me/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/about-me/</guid>
+      <description>About Me Hi, I&amp;rsquo;m Tyler Vergin—a soon-to-be Computer Science graduate from DePaul University and a dedicated Software Developer. I thrive on creating efficient, scalable solutions that make a real impact. My academic journey has given me a solid foundation in both theory and practice, and I&amp;rsquo;m a fast learner who quickly adapts to new technologies.
+My passion lies in pushing the boundaries of technology. I’ve honed my skills in object-oriented programming with languages like Java, C++, Swift, and Python, and I’m comfortable tackling challenges in C, Scala, Scheme, and MySQL.</description>
+    </item>
+    <item>
+      <title>GoDex and GoDex Pro using Swift</title>
       <link>http://localhost:1313/posts/projects/godex/</link>
-      <pubDate>Thu, 22 Feb 2024 23:07:38 -0600</pubDate>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/projects/godex/</guid>
       <description>My First Large OOP Swift based iOS App</description>
+    </item>
+    <item>
+      <title>This Website!</title>
+      <link>http://localhost:1313/posts/projects/this-website/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/projects/this-website/</guid>
+      <description>Github Link My philosophy of what makes a good website: I have always been fascinated with how people use the programs that they do on a daily basis. As a technophile who likes to use programs which both look nice and function well I first considered going into website design when entering college. Website design was my original ambitions until I took some more advanced classes and noticed that it was not the actual user interface but the streamlining of workflows which actually interested me.</description>
     </item>
     <item>
       <title>Letter of Recommendation</title>
@@ -42,14 +64,6 @@
       <pubDate>Thu, 22 Feb 2024 23:06:44 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-resume/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/posts/about-me/</link>
-      <pubDate>Wed, 21 Feb 2024 23:24:06 -0600</pubDate>
-      <guid>http://localhost:1313/posts/about-me/</guid>
-      <description>Hi, I’m Tyler Vergin – Software Developer &amp;amp; Problem Solver I&amp;rsquo;m only a few months away from graduating with a degree in Computer Science from DePaul University, and I’m driven by the challenge of creating efficient and scalable software. My goal is to contribute to innovative projects, and I bring a fresh perspective, along with strong skills in object oriented programming languages and problem solving.
-Whether it’s optimizing algorithms, building responsive web apps, or diving into full-stack development, I’m ready to tackle any challenge that comes my way.</description>
     </item>
     <item>
       <title>GoDex Pro Documentation</title>

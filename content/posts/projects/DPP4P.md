@@ -1,6 +1,6 @@
 +++
 title = 'DuPage Paws for People Website'
-date = 2024-02-22T23:07:38-06:00
+date = 2025-01-22
 draft = false
 Description = 'Emulating A Real Work Environment'
 tags = ["projects"]

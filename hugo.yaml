@@ -81,7 +81,7 @@ params:
       - name: About Me
         url: "/posts/about-me"
       - name: Coding Projects
-        url: "https://github.com/tjvvergin"
+        url: "/tags/projects"
       - name: Letter of Recommendation
         url: "/posts/letters-of-recommendation"
   socialIcons: 
